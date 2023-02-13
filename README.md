@@ -1,7 +1,7 @@
 # Horiseon Social Solution Services, Inc.
 ![Languages Badge](https://img.shields.io/badge/Languages-2-blue)
-![HTML Badge](https://img.shields.io/badge/HTML-50.1%25-red)
-![CSS Badge](https://img.shields.io/badge/CSS-49.1%25-blueviolet)
+![HTML Badge](https://img.shields.io/badge/HTML-59.7-red)
+![CSS Badge](https://img.shields.io/badge/CSS-40.3-blueviolet)
 
 ## Description
 
