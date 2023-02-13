@@ -1,4 +1,7 @@
 # Horiseon Social Solution Services, Inc.
+![Languages Badge](https://img.shields.io/badge/Languages-2-blue)
+![HTML Badge](https://img.shields.io/badge/HTML-50.1%25-red)
+![CSS Badge](https://img.shields.io/badge/CSS-49.1%25-blueviolet)
 
 ## Description
 
@@ -10,8 +13,9 @@ This task has improved my knowledge and skills in using semantic HTML structures
 ## Table of Contents (Optional)
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
+- [Languages Used](#languages-used)
+- [Full Preview](#full-preview)
 - [Credits](#credits)
 
 ## Features
@@ -26,6 +30,15 @@ This task has improved my knowledge and skills in using semantic HTML structures
 This landing page is utilised effectively by selecting the links at the top of the page, which take you to the relevant headings. Each heading provides useful information about various social media services.
 
 ![Navigation bar for the Horiseon Social Solution Services website.](assets/images/navigation-bar.png)
+
+## Languages Used
+- ### **HTML**
+- ### **CSS**
+
+## Full Preview
+
+![Horiseon Landing page preview including navigatio bar, hero header image, and article content with text and images](./assets/images/horiseon-landing-page.png "Horiseon Landing Page")
+
 
 
 ## Credits
@@ -46,9 +59,4 @@ This landing page is utilised effectively by selecting the links at the top of t
 
 [Creating links in a README.md file](https://docs.readme.com/main/docs/linking-to-pages)
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
+[Badge generator](https://shields.io/)
